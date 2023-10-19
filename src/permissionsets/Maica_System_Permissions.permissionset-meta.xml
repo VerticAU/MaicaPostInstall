@@ -29,7 +29,7 @@
 		<allowEdit>true</allowEdit>
 		<allowRead>true</allowRead>
 		<modifyAllRecords>false</modifyAllRecords>
-		<object>%%%NAMESPACE%%%Booking_Item__c</object>
+		<object>maica__Booking_Item__c</object>
 		<viewAllRecords>false</viewAllRecords>
 	</objectPermissions>
 	<objectPermissions>
@@ -38,7 +38,7 @@
 		<allowEdit>true</allowEdit>
 		<allowRead>true</allowRead>
 		<modifyAllRecords>false</modifyAllRecords>
-		<object>%%%NAMESPACE%%%Service_Booking__c</object>
+		<object>maica__Service_Booking__c</object>
 		<viewAllRecords>false</viewAllRecords>
 	</objectPermissions>
 	<objectPermissions>
@@ -47,7 +47,7 @@
 		<allowEdit>true</allowEdit>
 		<allowRead>true</allowRead>
 		<modifyAllRecords>false</modifyAllRecords>
-		<object>%%%NAMESPACE%%%Plan__c</object>
+		<object>maica__Plan__c</object>
 		<viewAllRecords>false</viewAllRecords>
 	</objectPermissions>
 	<objectPermissions>
@@ -56,7 +56,7 @@
 		<allowEdit>true</allowEdit>
 		<allowRead>true</allowRead>
 		<modifyAllRecords>false</modifyAllRecords>
-		<object>%%%NAMESPACE%%%Plan_Budget__c</object>
+		<object>maica__Plan_Budget__c</object>
 		<viewAllRecords>false</viewAllRecords>
 	</objectPermissions>
 	<objectPermissions>
@@ -65,7 +65,7 @@
 		<allowEdit>true</allowEdit>
 		<allowRead>true</allowRead>
 		<modifyAllRecords>false</modifyAllRecords>
-		<object>%%%NAMESPACE%%%Plan_Goal__c</object>
+		<object>maica__Plan_Goal__c</object>
 		<viewAllRecords>false</viewAllRecords>
 	</objectPermissions>
 	<objectPermissions>
